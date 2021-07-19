@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="400px">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200px">
 
 # Hello! My name is Tristan. ✌️
 
