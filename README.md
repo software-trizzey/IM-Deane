@@ -6,6 +6,6 @@
 
 ### [Portfolio](http://tristandeaneportfolio.com/) | [Email](tristandeane93@gmail.com)
 
-## GitHub Stats
+## ⭐ Stats
 
 [![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IM-Deane&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
