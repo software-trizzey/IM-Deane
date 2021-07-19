@@ -1,5 +1,7 @@
 ![Header](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I)
 
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+
 # Hello! My name is Tristan. ✌️
 
 I'm a web developer from Edmonton who specializes in React and its ecosystem. I
