@@ -2,8 +2,7 @@
 
 # Hello! My name is Tristan. ✌️
 
-I'm a web developer from Edmonton who specializes in React and its ecosystem. I
-enjoy solving problems and building interesting things.
+## I'm a web developer from Edmonton who specializes in React and its ecosystem. I enjoy solving problems and building interesting things.
 
 ### [Portfolio](http://tristandeaneportfolio.com/) | [Email](tristandeane93@gmail.com)
 
