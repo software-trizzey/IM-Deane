@@ -3,7 +3,8 @@
 I'm a web developer from Edmonton who specializes in React and its ecosystem. I
 enjoy solving problems and building interesting things.
 
-[My portfolio website]("http://tristandeaneportfolio.com/")
+[Portfolio website]("http://tristandeaneportfolio.com/") |
+[Email](tristandeane93@gmail.com)
 
 ## GitHub Stats
 
