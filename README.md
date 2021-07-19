@@ -1,6 +1,4 @@
-![Header](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I)
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="400px">
 
 # Hello! My name is Tristan. ✌️
 
