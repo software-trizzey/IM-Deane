@@ -4,7 +4,7 @@
 
 ## I'm a web developer from Edmonton who specializes in React and its ecosystem. I enjoy solving problems and building interesting things.
 
-### [Portfolio](http://tristandeaneportfolio.com/) | [Email](tristandeane93@gmail.com)
+### [Portfolio](http://tristandeaneportfolio.com/) | [Email](mailto:tristandeane93@gmail.com)
 
 ## ⭐ Stats
 
