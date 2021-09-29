@@ -1,8 +1,9 @@
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="350px">
+<!-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="350px"> -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47oihio8wxahjb7utljs7obbiy072oz09frbjttcxa&rid=giphy.gif&ct=g" width="100%" height="350px">
 
-# Hello! My name is Tristan. ✌️
+# Hi there! My name is Tristan 🇨🇦
 
-## I'm a web developer from Edmonton who specializes in React and its ecosystem. I enjoy solving problems and building interesting things.
+### I enjoy solving problems, building interesting things, and BRINGING THE HEAT. 🔥🔥🔥
 
 ### [Portfolio](http://tristandeaneportfolio.com/) | [Email](mailto:tristandeane93@gmail.com)
 
