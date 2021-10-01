@@ -3,7 +3,7 @@
 
 # Hi there! My name is Tristan. 🇨🇦
 
-### I enjoy solving problems building interesting things, and BRINGING THE HEAT. 🔥🔥🔥
+### I enjoy solving problems, building interesting things, and BRINGING THE HEAT. 🔥🔥🔥
 
 ### [Portfolio](http://tristandeaneportfolio.com/) | [Email](mailto:tristandeane93@gmail.com)
 
